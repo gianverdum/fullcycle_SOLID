@@ -11,4 +11,15 @@ SOLID is a set of five design principles that improve the maintainability, scala
 4. **I**nterface Segregation Principle (**ISP**) - Clients should not be forced to depend on interfaces they do not use.
 5. **D**ependency Inversion Principle (**DIP**) - High-level modules should not depend on low-level modules. Both should depend on abstractions.
 
-## 📂 Folder Structure
+
+## 🎯 Purpose of This Repository
+✅ Understand how violating SOLID principles leads to **bad design**
+✅ Learn **refactoring techniques** to fix code and adhere to SOLID
+✅ Get hands-on experience by **modifying and improving** existing examples
+✅ Build **better software architecture** using SOLID principles
+
+## 🔧 How to Use This Repo
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/gianverdum/fullcycle_SOLID.git
+   cd fullcycle_SOLID
